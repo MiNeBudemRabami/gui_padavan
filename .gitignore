@@ -396,6 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-gg0.9/resources/ball.wav
 *.txt
-gg0.9/resources/sansation.ttf
